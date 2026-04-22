@@ -1,0 +1,12 @@
+# 个人月报文件（不上传）
+*.docx
+*.doc
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
